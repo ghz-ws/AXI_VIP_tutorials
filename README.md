@@ -1,2 +1,2 @@
-# AXI_VIP_tutorials
-AXI VIP tutorials
+# AXI VIP tutorials
+Related book (Japanese) is available from ... <br>
